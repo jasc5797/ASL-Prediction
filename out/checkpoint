@@ -1,0 +1,2 @@
+model_checkpoint_path: "asl_convnet.chkp"
+all_model_checkpoint_paths: "asl_convnet.chkp"
